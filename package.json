@@ -1,0 +1,13 @@
+{
+  "name": "singlepage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jean Pierre <stick-master666@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server-spa . ./index.html"
+  },
+  "dependencies": {
+    "http-server-spa": "^1.3.0"
+  }
+}
